@@ -3,7 +3,7 @@ Chapter 1.tex
 subsection_Introduction_Focus_and_Overview__.tex
 subsection_Needs_Analysis_and_Justification__.tex
 subsection_Professional_Autobiography_This_section__.tex
-section_Chapter_2_A_Critical__.tex
+chapter_Chapter_2_A_Critical__.tex
 section_Chapter_3_4_000__.tex
 subsection_The_Methodology_of_Research__.tex
 subsection_The_Methods_of_Data__.tex

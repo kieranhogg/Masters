@@ -10,3 +10,4 @@ subsection_The_Methods_of_Data__.tex
 section_Chapter_4_Project_activity__.tex
 section_Analysis_of_findings_and__.tex
 section_Chapter_6_1_500__.tex
+subsection_Conclusions_and_recommendations__.tex

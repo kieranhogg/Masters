@@ -10,4 +10,4 @@ subsection_The_Methods_of_Data__.tex
 section_Project_activity_the_processes__.tex
 section_Analysis_of_findings_and__.tex
 section_Conclusions_and_recommendations_1__.tex
-begin_appendices_chapter_Some_Appendix__.tex
+newpage_appendix_section_Title_of__.tex

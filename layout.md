@@ -10,5 +10,4 @@ subsection_The_Methods_of_Data__.tex
 section_Project_activity_the_processes__.tex
 section_Analysis_of_findings_and__.tex
 section_Conclusions_and_recommendations_1__.tex
-subsection_Conclusions_and_recommendations__.tex
 subsection_Appendices_and_Bibliography__.tex

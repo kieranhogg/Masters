@@ -3,6 +3,7 @@ Chapter 1.tex
 subsection_Overview_and_Needs_Analysis__.tex
 subsection_Professional_Autobiography_begin_quote__.tex
 section_A_Critical_Review_of__.tex
+figures/The SECI cycle of knowledge creation/The SECI cycle of knowledge creation.png
 section_Methodology_4_000_5__.tex
 subsection_The_Methodology_of_Research__.tex
 subsection_The_Methods_of_Data__.tex

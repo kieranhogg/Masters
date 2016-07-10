@@ -10,6 +10,7 @@ subsection_The_Methodology_of_Research__.tex
 subsection_The_Methods_of_Data__.tex
 section_Findings_2_000_words__.tex
 section_Analysis_5_000_words__.tex
+figures/learnt/learnt.png
 figures/Cloud 1/Cloud 1.png
 What_section_Conclusion_1_500__.tex
 appendix_setcounter_secnumdepth_1_section__.tex

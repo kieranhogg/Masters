@@ -5,7 +5,7 @@ Chapter 2.tex
 figures/The SECI cycle of knowledge creation/The SECI cycle of knowledge creation.png
 section_Critical_Theory__.tex
 Chapter 3.tex
-section_Chapter_4_subsection_Project__.tex
+Chapter 4.tex
 Chapter 5.tex
 figures/innovation-implementation/innovation-implementation.png
 figures/liked/liked.png

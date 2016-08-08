@@ -1,7 +1,7 @@
 Abstract1.tex
 Chapter 1.tex
 figures/Innovation searches/Innovation searches.png
-Literature Review.tex
+Chapter 2.tex
 figures/The SECI cycle of knowledge creation/The SECI cycle of knowledge creation.png
 section_Critical_Theory__.tex
 section_Chapter_3_4_000__.tex

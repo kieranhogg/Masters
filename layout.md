@@ -11,5 +11,5 @@ figures/innovation-implementation/innovation-implementation.png
 figures/liked/liked.png
 figures/learnt/learnt.png
 figures/Cloud 1/Cloud 1.png
-section_Chapter_6_subsection_Conclusions__.tex
+Chapter 6.tex
 appendix_setcounter_secnumdepth_1_section__.tex

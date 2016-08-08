@@ -5,7 +5,7 @@ Literature Review.tex
 figures/The SECI cycle of knowledge creation/The SECI cycle of knowledge creation.png
 section_Critical_Theory__.tex
 section_Chapter_3_4_000__.tex
-section_Findings_2_000_words__.tex
+section_Chapter_4_subsection_Project__.tex
 section_Analysis_5_000_words__1.tex
 figures/innovation-implementation/innovation-implementation.png
 figures/liked/liked.png

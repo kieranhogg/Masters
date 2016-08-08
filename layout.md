@@ -1,4 +1,4 @@
-Abstract1.tex
+Abstract.tex
 Chapter 1.tex
 figures/Innovation searches/Innovation searches.png
 Chapter 2.tex

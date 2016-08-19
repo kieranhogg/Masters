@@ -1,5 +1,6 @@
 Abstract.tex
 Chapter 1.tex
+figures/Screen Shot 2016-08-19 at 18.00.38/Screen Shot 2016-08-19 at 18.00.38.png
 figures/Innovation searches/Innovation searches.png
 Chapter 2.tex
 figures/The SECI cycle of knowledge creation/The SECI cycle of knowledge creation.png
